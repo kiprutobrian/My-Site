@@ -11,15 +11,15 @@
 				<div class="list-group">
 					<div class="list-group-item">
 						<p class="item-title">Email</p>
-						<p><a href="mailto:emils.gulbis@gmail.com">emils.gulbis@gmail.com</a></p>
+						<p><a href="mailto:mweadennis@dytech.co.ke">mweadennis@dytech.co.ke</a></p>
 					</div>
 					<div class="list-group-item">
 						<p class="item-title">Phone</p>
-						<p><a href="tel:+37120303056">+371 20 30 30 56</a></p>
+						<p><a href="tel:+254705211430">+2547 0521 1430</a></p>
 					</div>
 					<div class="list-group-item">
 						<p class="item-title">Address</p>
-						<p>Mirdzas Kempes 3, Liepaja, Latvia, LV-3407</p>
+						<p>657- Kimathi, Nyeri - Kenya</p>
 					</div>
 				</div>
 			</div>

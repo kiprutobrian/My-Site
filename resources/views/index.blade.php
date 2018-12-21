@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Emīls Gulbis | Front-end developer</title>
+    <title>Dennis Mwea | FullStack-Web developer</title>
     <meta name="description" content="Love to craft beautiful designs into live user interfaces with the best user experience in mind">
     <link rel="icon" href="/favicon.png" sizes="64x64">
     <link rel="stylesheet" href="/css/app.css">

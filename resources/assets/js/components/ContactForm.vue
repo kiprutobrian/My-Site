@@ -4,7 +4,7 @@
 			<p><strong>Thank you, {{form.name}}!</strong></p>
 			<p>I will reply you as soon as possible.</p>
 		</div>
-		<form action="post" class="form--contacts" @submit.prevent="sendForm" v-if="form.show">
+		<form method="post" class="form--contacts" @submit.prevent="sendForm" v-if="form.show">
 			<legend>{{form.legend}}<span class="typed"></span></legend>
 			<fieldset>
 				<div class="form-group" :class="{'invalid' : errors.has('name')}">

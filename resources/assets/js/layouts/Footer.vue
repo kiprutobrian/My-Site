@@ -13,22 +13,22 @@
   		<dd class="mb-0">
   			<ul class="nav nav-social">
   				<li class="nav-item">
-  					<a class="nav-link" href="https://www.facebook.com/emiils" target="_blank">
+  					<a class="nav-link" href="https://www.facebook.com/dennis" target="_blank">
   						<i class="fa fa-facebook"></i>
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://www.linkedin.com/in/emilsgulbis/" target="_blank">
+  					<a class="nav-link" href="https://www.linkedin.com/in/dennis/" target="_blank">
   						<i class="fa fa-linkedin"></i>
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://twitter.com/yozhis" target="_blank">
+  					<a class="nav-link" href="https://twitter.com/mweadennis2" target="_blank">
   						<i class="fa fa-twitter"></i>
   					</a>
   				</li>
   				<li class="nav-item">
-  					<a class="nav-link" href="https://github.com/emilsgulbis" target="_blank">
+  					<a class="nav-link" href="https://github.com/Dennis-Mwea" target="_blank">
   						<i class="fa fa-github"></i>
   					</a>
   				</li>
@@ -42,8 +42,8 @@
 export default {
 	data(){
 		return {
-			email: 'emils.gulbis@gmail.com',
-			phone: '+371 20 30 30 56',
+			email: 'mweadennis@dytech.co.ke',
+			phone: '+2547  0521 1430',
 			social : {
 				facebook : '',
 				twitter: '',

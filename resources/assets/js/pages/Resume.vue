@@ -60,24 +60,19 @@
 						<img src="/images/logos/git.svg" alt="Git" class="img-fluid">
 					</a>
 				</div>
-				<div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-					<a href="https://wordpress.org/" target="_blank">
-						<img src="/images/logos/wordpress.svg" alt="Wordpress" class="img-fluid">
-					</a>
-				</div>
 			</div>
 		</section>
 		<section>
 			<h1 class="title title--spaced">Experience</h1>
 			<div class="list-group list-group-vertical">
 				<div class="list-group-item">
-					<p class="item-date">2015 - Present</p>
+					<p class="item-date">2016 - Present</p>
 					<p class="item-title">Working remotely</p>
-					<p class="text-muted">Front-end / Full Stack developer</p>
+					<p class="text-muted">Back-end / Full Stack developer</p>
 				</div>
 				<div class="list-group-item">
 					<p class="item-date">2013-2015</p>
-					<p class="item-title">Adevo (<em>office</em>)</p>
+					<p class="item-title">Dytech (<em>office</em>)</p>
 					<p class="text-muted">Full Stack developer</p>
 				</div>
 				<div class="list-group-item">
@@ -91,15 +86,10 @@
 			<h2 class="title title--spaced">Education</h2>
 			<div class="list-group list-group-vertical">
 				<div class="list-group-item">
-					<p class="item-date">2013-2015</p>
-					<p class="item-title">University of Latvia</p>
+					<p class="item-date">2015-2018</p>
+					<p class="item-title">Dedan Kimathi University</p>
 					
-					<p class="text-muted">Programming and Administration of Computer Networks</p>
-				</div>
-				<div class="list-group-item">
-					<p class="item-date">2012-2013</p>
-					<p class="item-title">Ventspils University College</p>
-					<p class="text-muted">Information technology</p>
+					<p class="text-muted">B. Sc. Computer Science</p>
 				</div>
 			</div>
 		</section>
