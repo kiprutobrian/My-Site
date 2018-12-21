@@ -5,20 +5,22 @@ namespace App\Mail;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
-use Illuminate\Contracts\Queue\ShouldQueue;
 
 class ContactForm extends Mailable
 {
     use Queueable, SerializesModels;
 
     /**
-     * Create a new message instance.
-     *
-     * @return void
+     * @var
      */
-    public function __construct()
+    public $data;
+
+    /**
+     * Create a new message instance.
+     */
+    public function __construct($data)
     {
-        //
+        $this->data = $data;
     }
 
     /**
@@ -28,6 +30,6 @@ class ContactForm extends Mailable
      */
     public function build()
     {
-        return $this->markdown('emails.contact');
+        return $this->markdown('emails.contact')->with(['data' => $this->data]);
     }
 }

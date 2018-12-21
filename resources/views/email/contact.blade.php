@@ -3,9 +3,9 @@
 
 The body of your message.
 
-<p>{{$data['name']}} ({{$data['email']}})</p>
-------
-<p>{{$data['message']}}</p>
+@component('mail::button', ['url' => ''])
+Button Text
+@endcomponent
 
 Thanks,<br>
 {{ config('app.name') }}
